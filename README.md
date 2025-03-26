@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio  
+# [![Portfolio](https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-portfolio-job-search-flaticons-flat-flat-icons.png)](ссылка-на-портфолио)   Data Analytics Portfolio  
 Welcome! Explore my data analytics projects here.
 
 ## 🏆 [Certificates and Diplomas for Training, Reskilling, and Advanced Qualification](https://github.com/Elena-Rykh/data-analytics-portfolio/tree/main/Certificates%20and%20Diplomas%20for%20Training%2C%20Reskilling%2C%20and%20Advanced%20Qualification)
@@ -15,4 +15,4 @@ Welcome! Explore my data analytics projects here.
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/elena-rykhlova-82965623a)  |  [![Tableau](https://img.icons8.com/color/48/tableau-software.png)](https://www.tableau.com/)  |  [![Telegram](https://img.icons8.com/color/48/telegram-app.png)](https://t.me/ElenaRykh)  |  [![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:Elena.Rykh@gmail.com) 
 
 
-[![Portfolio](https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-portfolio-job-search-flaticons-flat-flat-icons.png)](ссылка-на-портфолио)  
+
