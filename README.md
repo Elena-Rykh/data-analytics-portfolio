@@ -12,10 +12,10 @@ Welcome! Explore my data analytics projects here.
 ## 🗄️ [SQL_Projects](https://github.com/Elena-Rykh/data-analytics-portfolio/tree/main/SQL_Projects)
 
 ## 📫 Контакты  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-rykhlova-82965623a ) | [![Tableau](https://img.shields.io/badge/Tableau-%23006B94.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) | 📩 [Написать письмо](mailto:Elena.Rykh@gmail.com) | 📢 [Мой Telegram](https://t.me/ElenaRykh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-rykhlova-82965623a ) | [![Tableau](https://img.shields.io/badge/Tableau-%23006B94.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)  | [![Telegram](https://img.shields.io/badge/Telegram-%2300AEEF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElenaRykh) | [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elena.Rykh@gmail.com)  
 
-[![Tableau](https://img.shields.io/badge/Tableau-%23006B94.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ваш-username/)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2300AEEF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElenaRykh)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elena.Rykh@gmail.com)  
+
+
+
+
 
