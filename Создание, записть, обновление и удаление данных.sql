@@ -16,7 +16,7 @@ insert into  TestDB.TestTable1 (Name, Weight)
     select * from TestDB.TestTable1;
     
     
-	update TestDB.TestTable1  -- обновиться данные
+    update TestDB.TestTable1  -- обновиться данные
     set Weight = 20 -- запиши в столбец с именем .. новые данные ..
     where Name = "AUTO"; -- строку выбери ту, в которой выполняется условие ID = 
     
