@@ -1,7 +1,7 @@
 # 📊 Data Analytics Portfolio  
-Добро пожаловать! Здесь я публикую свои проекты по аналитике данных.  
+Welcome! Explore my data analytics projects here.
 
-## 🔹 Certificates and Diplomas for Training, Reskilling, and Advanced Qualification
+## 🔹 Certificates and Diplomas for Training, Reskilling, and Advanced Qualification(Certificates and Diplomas for Training, Reskilling, and Advanced Qualification)
 
 ## 🔹 Business Process Modeling Diagrams (Different Methodologies)
 
