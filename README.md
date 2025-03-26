@@ -1,4 +1,4 @@
-#  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=portfolio&logoColor=white)  Senior Data Analyst (Full staсk)
+#  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=portfolio&logoColor=white)  Senior Data Analyst (Full Stack) with Business Analysis
 Welcome! Explore my data analytics projects here.
 
 ## 🏆 [Certificates and Diplomas for Training, Reskilling, and Advanced Qualification](https://github.com/Elena-Rykh/data-analytics-portfolio/tree/main/Certificates%20and%20Diplomas%20for%20Training%2C%20Reskilling%2C%20and%20Advanced%20Qualification)
