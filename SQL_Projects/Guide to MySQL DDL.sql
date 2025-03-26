@@ -37,4 +37,6 @@ select * from TestDB.TestTable1;
 delete from TestDB.TestTable1 -- удаление строки по условию
 where ID = 3;
 
-truncate testdb.testtable -- удалить все данные в таблице, а потом дропнуть через контекстное меню в схеме
+TRUNCATE TABLE testdb.testtable; -- удалить все данные в таблице, а потом дропнуть через контекстное меню в схеме
+
+RENAME TABLE employees TO staff; -- переиновать таблицу с employees на staff
