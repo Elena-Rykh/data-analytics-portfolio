@@ -19,3 +19,7 @@ Welcome! Explore my data analytics projects here.
 
 
 
+[![Tableau](https://img.icons8.com/color/48/tableau-software.png)](https://www.tableau.com/)  
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/ваш-username/)  
+[![Telegram](https://img.icons8.com/color/48/telegram-app.png)](https://t.me/ElenaRykh)  
+[![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:Elena.Rykh@gmail.com) 
