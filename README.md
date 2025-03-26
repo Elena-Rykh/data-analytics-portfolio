@@ -16,3 +16,7 @@ Welcome! Explore my data analytics projects here.
 
 
 
+[![Portfolio](https://img.icons8.com/ios/50/000000/portfolio.png)](ссылка-на-портфолио)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=portfolio&logoColor=white)](ссылка-на-портфолио)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=portfolio&logoColor=white)
+[![Portfolio](https://upload.wikimedia.org/wikipedia/commons/a/a3/Portfolio_icon.png)](ссылка-на-портфолио)
