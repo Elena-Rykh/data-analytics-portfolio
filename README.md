@@ -12,4 +12,4 @@ Welcome! Explore my data analytics projects here.
 ## 🗄️ [SQL_Projects](https://github.com/Elena-Rykh/data-analytics-portfolio/tree/main/SQL_Projects)
 
 ## 📫 Контакты  
-[LinkedIn](https://www.linkedin.com/in/elena-rykhlova-82965623a ) | [Tableau Public](https://public.tableau.com/profile/ВАШ_ЛИНК/)  | [TG](@ElenaRykh) | [Mail](Elena.Rykh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elena-rykhlova-82965623a ) | [Tableau Public](https://public.tableau.com/profile/ВАШ_ЛИНК/)  | [TG](https://web.telegram.org/k/#@ElenaRykh) | [Mail](Elena.Rykh@gmail.com)
